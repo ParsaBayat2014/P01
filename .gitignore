@@ -7,3 +7,4 @@
 .money-private/
 __pycache__/
 node_modules/
+.venv/
